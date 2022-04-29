@@ -1,0 +1,52 @@
+body{
+    background-image: url(multimedia/dead-by-daylight-x-saw-crossover-revealed_nbxb.1280.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.fondo{
+    background-color: rgb(15, 15, 53);
+}
+.contenedor{
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.div__primero__h1{
+    color: rgba(255, 255, 255, 0.589);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
+}
+
+.div__primero{
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.div__segundo{
+    height: 70px;
+    color: black;
+    font-size: 32px;
+    padding: 100px;
+}
+
+h2{
+    color: rgb(241, 241, 241);
+    font-size: 32px;
+}
+.main__videos{
+    display: flex;
+    flex-direction: column;
+}
+.main__personajes{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.main__videos__iframes{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+}
